@@ -14,10 +14,10 @@ I Software Engineering student interested in building efficient and well-structu
 [![My Skills](https://skillicons.dev/icons?i=c,html,css,js,py)](https://skillicons.dev)
 
 # Contact 📩
-<p> 
-number ☎️ : +55 (91) 99619-5722
-E-mail : Kauankawasaki01@gmail.com
-</p>
+
+number ☎️ : +55 (91) 99619-5722 <br>
+E-mail : Kauankawasaki01@gmail.com 
+
 
 
 
