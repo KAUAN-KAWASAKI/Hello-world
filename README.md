@@ -1,2 +1,2 @@
-# Hello-world
-This repository is for understanding GitHub.
+# About Me
+I Software Engineering student interested in building efficient and well-structured systems. I have experience with JavaScript, HTML, CSS, and the C programming language. I study backend development, clean code practices, testing, continuous integration, and core computer science principles. I'm always looking to learn new technologies and create projects that strengthen my practical skills.
