@@ -9,11 +9,7 @@ I Software Engineering student interested in building efficient and well-structu
 
 #Skills 🧑🏻‍💻
 [![My Skills](https://skillicons.dev/icons?i=c,html,css,js,py)](https://skillicons.dev)
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,html,css,js,py" />
-  </a>
-</p>
+
 
 #contact 📩
 number ☎️ : +55 (91) 99619-5722
