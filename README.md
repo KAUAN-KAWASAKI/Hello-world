@@ -17,8 +17,7 @@ I Software Engineering student interested in building efficient and well-structu
 
 number ☎️ : +55 (91) 99619-5722 <br>
 E-mail : Kauankawasaki01@gmail.com 
-<a href="https://www.linkedin.com/in/kauan-kawasaki-a453a1354/"> <button style="border-radios=12px; navy; padding=24px"> Linkedin </button>  </a>
-<a href="https://www.instagram.com/kauan_kawasaki/"> <button style="border-radios=12px; navy; padding=24px"> Instagram </button>  </a>
+<button> voltar </button>
 
 
 
