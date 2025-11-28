@@ -1,13 +1,13 @@
 # Hello world 🧑🏻‍💻
 <p>
-😁 Focused on writing clean and efficient code.
-💻 Always learning. Always improving.
-⚙️ Backend enthusiast in constant evolution.
-🎯 Developing software with purpose and discipline. 
+😁 Focused on writing clean and efficient code. <br>
+💻 Always learning. Always improving. <br>
+⚙️ Backend enthusiast in constant evolution. <br>
+🎯 Developing software with purpose and discipline.
 </p>
 
 # About Me 📝
-I Software Engineering student interested in building efficient and well-structured systems. I have experience with JavaScript, HTML, CSS, and the C programming language. I study backend development, clean code practices, testing, continuous integration, and core computer science principles. I'm always looking to learn new technologies and create projects that strengthen my practical skills.
+I Software Engineering student interested in building efficient and well-structured systems. <br> I have experience with JavaScript, HTML, CSS, and the C programming language. <br> I study backend development, clean code practices, testing, continuous integration, and core computer science principles. <br> I'm always looking to learn new technologies and create projects that strengthen my practical skills.
 <br>
 
 # Skills 🧑🏻‍💻
@@ -17,6 +17,8 @@ I Software Engineering student interested in building efficient and well-structu
 
 number ☎️ : +55 (91) 99619-5722 <br>
 E-mail : Kauankawasaki01@gmail.com 
+<a href="https://www.linkedin.com/in/kauan-kawasaki-a453a1354/"> <button style="border-radios=12px; navy; padding=24px"> Linkedin </button>  </a>
+<a href="https://www.instagram.com/kauan_kawasaki/"> <button style="border-radios=12px; navy; padding=24px"> Instagram </button>  </a>
 
 
 
